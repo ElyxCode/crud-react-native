@@ -1,0 +1,32 @@
+{
+  "clients": [
+    {
+      "name": "Fabricio",
+      "phone": "86592365",
+      "email": "Kskkd@jf.com",
+      "business": "Envia",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "mario123",
+      "phone": "89093483",
+      "email": "mario@mail.com",
+      "business": "Nuvafest"
+    },
+    {
+      "name": "ricardo",
+      "phone": "90871234",
+      "email": "ricardo@mail.com",
+      "business": "Novatech",
+      "id": 4
+    },
+    {
+      "id": 5,
+      "name": "edwin jua",
+      "phone": "67893456",
+      "email": "edwin123@mail.com",
+      "business": "ISSS"
+    }
+  ]
+}
